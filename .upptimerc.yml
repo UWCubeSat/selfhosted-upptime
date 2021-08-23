@@ -1,31 +1,30 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: uwcubesat # Your GitHub organization or username, where this repository lives
+repo: selfhosted-upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Proxy
+    url: https://online.huskysatellitelab.com
+  - name: Wiki
+    url: https://online.huskysatellitelab.com/wiki
+  - name: PartDB
+    url: https://online.huskysatellitelab.com/partdb
+
+assignees:
+  - markasoftware
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.huskysatellitelab.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  logoUrl: https://lh5.googleusercontent.com/Vw4mim53lV7eSVyQ7FxEAw-aHrpFBZvV2Cdip1kXOHW8d-6EVpKQXRpAO3ljm-3MTubkhC0Nr86O2G1CZDEi4WqxDtyTZUw5p1sWaHpFTp1cGoV6=w1280
+  name: Husky Satellite Lab Status
+  introTitle: "Husky Satellite Lab self-hosted services status"
+  introMessage: Some HSL services, such as the wiki, are run on our own server in the lab! Unfortunately, we don't have the same reliability as Google, so the server goes down every so often. This page monitors the status of our various services and sends alerts to people when they go down.
+  # navbar:
+  #   - title: Status
+  #     href: /
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
