@@ -9,9 +9,8 @@ sites:
     url: https://online.huskysatellitelab.com/wiki
   - name: PartDB
     url: https://online.huskysatellitelab.com/partdb
-
-assignees:
-  - markasoftware
+  - name: Keycloak
+    url: https://online.huskysatellitelab.com/keycloak/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
