@@ -15,7 +15,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.huskysatellitelab.com
+  cname: status.huskysat.com
   # baseUrl: /your-repo-name
   logoUrl: https://lh5.googleusercontent.com/Vw4mim53lV7eSVyQ7FxEAw-aHrpFBZvV2Cdip1kXOHW8d-6EVpKQXRpAO3ljm-3MTubkhC0Nr86O2G1CZDEi4WqxDtyTZUw5p1sWaHpFTp1cGoV6=w1280
   name: Husky Satellite Lab Status
