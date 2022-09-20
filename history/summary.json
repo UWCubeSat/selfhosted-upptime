@@ -6,14 +6,14 @@
     "slug": "proxy",
     "status": "up",
     "uptime": "98.91%",
-    "uptimeDay": "33.10%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "64.79%",
     "uptimeMonth": "91.90%",
-    "uptimeYear": "98.83%",
+    "uptimeYear": "98.84%",
     "time": 331,
-    "timeDay": 284,
-    "timeWeek": 282,
-    "timeMonth": 298,
+    "timeDay": 395,
+    "timeWeek": 286,
+    "timeMonth": 301,
     "timeYear": 327,
     "dailyMinutesDown": {
       "2022-09-18": 1091,
@@ -35,8 +35,7 @@
       "2021-11-29": 17,
       "2021-11-28": 16,
       "2021-11-19": 19,
-      "2021-10-11": 142,
-      "2021-09-20": 58
+      "2021-10-11": 142
     }
   },
   {
@@ -45,15 +44,15 @@
     "icon": "https://favicons.githubusercontent.com/online.huskysatellitelab.com",
     "slug": "wiki",
     "status": "up",
-    "uptime": "97.00%",
-    "uptimeDay": "33.10%",
+    "uptime": "97.01%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "64.79%",
     "uptimeMonth": "91.73%",
-    "uptimeYear": "96.86%",
+    "uptimeYear": "96.87%",
     "time": 1248,
-    "timeDay": 935,
-    "timeWeek": 782,
-    "timeMonth": 1020,
+    "timeDay": 856,
+    "timeWeek": 770,
+    "timeMonth": 870,
     "timeYear": 1223,
     "dailyMinutesDown": {
       "2022-09-18": 1091,
@@ -104,8 +103,7 @@
       "2021-10-11": 142,
       "2021-09-26": 55,
       "2021-09-22": 27,
-      "2021-09-21": 75,
-      "2021-09-20": 58
+      "2021-09-21": 75
     }
   },
   {
@@ -114,18 +112,19 @@
     "icon": "https://favicons.githubusercontent.com/online.huskysatellitelab.com",
     "slug": "part-db",
     "status": "down",
-    "uptime": "37.14%",
+    "uptime": "37.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "32.53%",
-    "time": 343,
-    "timeDay": 53,
-    "timeWeek": 47,
-    "timeMonth": 52,
-    "timeYear": 290,
+    "uptimeYear": "32.27%",
+    "time": 342,
+    "timeDay": 72,
+    "timeWeek": 48,
+    "timeMonth": 53,
+    "timeYear": 287,
     "dailyMinutesDown": {
-      "2022-09-19": 127,
+      "2022-09-20": 122,
+      "2022-09-19": 1440,
       "2022-09-18": 1440,
       "2022-09-17": 1440,
       "2022-09-16": 1440,
@@ -381,8 +380,7 @@
       "2021-10-11": 142,
       "2021-09-26": 54,
       "2021-09-22": 25,
-      "2021-09-21": 71,
-      "2021-09-20": 59
+      "2021-09-21": 71
     }
   },
   {
@@ -392,14 +390,14 @@
     "slug": "keycloak",
     "status": "up",
     "uptime": "98.31%",
-    "uptimeDay": "33.10%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "64.79%",
     "uptimeMonth": "91.74%",
-    "uptimeYear": "98.35%",
+    "uptimeYear": "98.36%",
     "time": 159,
-    "timeDay": 4169,
-    "timeWeek": 1440,
-    "timeMonth": 343,
+    "timeDay": 101,
+    "timeWeek": 1442,
+    "timeMonth": 344,
     "timeYear": 156,
     "dailyMinutesDown": {
       "2022-09-18": 1091,
@@ -430,8 +428,7 @@
       "2021-10-11": 142,
       "2021-09-26": 52,
       "2021-09-22": 24,
-      "2021-09-21": 69,
-      "2021-09-20": 59
+      "2021-09-21": 69
     }
   }
 ]
