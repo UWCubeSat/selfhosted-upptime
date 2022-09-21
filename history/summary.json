@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/online.huskysatellitelab.com",
     "slug": "proxy",
     "status": "up",
-    "uptime": "98.91%",
+    "uptime": "98.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "64.79%",
     "uptimeMonth": "91.90%",
     "uptimeYear": "98.84%",
     "time": 331,
-    "timeDay": 395,
-    "timeWeek": 286,
-    "timeMonth": 301,
-    "timeYear": 327,
+    "timeDay": 455,
+    "timeWeek": 301,
+    "timeMonth": 306,
+    "timeYear": 328,
     "dailyMinutesDown": {
       "2022-09-18": 1091,
       "2022-09-17": 1440,
@@ -44,16 +44,16 @@
     "icon": "https://favicons.githubusercontent.com/online.huskysatellitelab.com",
     "slug": "wiki",
     "status": "up",
-    "uptime": "97.01%",
+    "uptime": "97.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "64.79%",
     "uptimeMonth": "91.73%",
     "uptimeYear": "96.87%",
-    "time": 1248,
-    "timeDay": 856,
-    "timeWeek": 770,
-    "timeMonth": 870,
-    "timeYear": 1223,
+    "time": 1247,
+    "timeDay": 1089,
+    "timeWeek": 820,
+    "timeMonth": 848,
+    "timeYear": 1225,
     "dailyMinutesDown": {
       "2022-09-18": 1091,
       "2022-09-17": 1440,
@@ -102,8 +102,7 @@
       "2021-10-16": 66,
       "2021-10-11": 142,
       "2021-09-26": 55,
-      "2021-09-22": 27,
-      "2021-09-21": 75
+      "2021-09-22": 27
     }
   },
   {
@@ -112,18 +111,19 @@
     "icon": "https://favicons.githubusercontent.com/online.huskysatellitelab.com",
     "slug": "part-db",
     "status": "down",
-    "uptime": "37.05%",
+    "uptime": "36.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "32.27%",
+    "uptimeYear": "31.99%",
     "time": 342,
-    "timeDay": 72,
-    "timeWeek": 48,
-    "timeMonth": 53,
-    "timeYear": 287,
+    "timeDay": 80,
+    "timeWeek": 50,
+    "timeMonth": 54,
+    "timeYear": 285,
     "dailyMinutesDown": {
-      "2022-09-20": 122,
+      "2022-09-21": 131,
+      "2022-09-20": 1440,
       "2022-09-19": 1440,
       "2022-09-18": 1440,
       "2022-09-17": 1440,
@@ -379,8 +379,7 @@
       "2021-10-16": 65,
       "2021-10-11": 142,
       "2021-09-26": 54,
-      "2021-09-22": 25,
-      "2021-09-21": 71
+      "2021-09-22": 25
     }
   },
   {
@@ -389,15 +388,15 @@
     "icon": "https://favicons.githubusercontent.com/online.huskysatellitelab.com",
     "slug": "keycloak",
     "status": "up",
-    "uptime": "98.31%",
+    "uptime": "98.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "64.79%",
     "uptimeMonth": "91.74%",
     "uptimeYear": "98.36%",
-    "time": 159,
-    "timeDay": 101,
-    "timeWeek": 1442,
-    "timeMonth": 344,
+    "time": 158,
+    "timeDay": 105,
+    "timeWeek": 1446,
+    "timeMonth": 345,
     "timeYear": 156,
     "dailyMinutesDown": {
       "2022-09-18": 1091,
@@ -427,8 +426,7 @@
       "2021-10-16": 63,
       "2021-10-11": 142,
       "2021-09-26": 52,
-      "2021-09-22": 24,
-      "2021-09-21": 69
+      "2021-09-22": 24
     }
   }
 ]
