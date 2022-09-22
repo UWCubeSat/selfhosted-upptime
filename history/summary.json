@@ -11,9 +11,9 @@
     "uptimeMonth": "91.90%",
     "uptimeYear": "98.84%",
     "time": 331,
-    "timeDay": 455,
-    "timeWeek": 301,
-    "timeMonth": 306,
+    "timeDay": 343,
+    "timeWeek": 327,
+    "timeMonth": 308,
     "timeYear": 328,
     "dailyMinutesDown": {
       "2022-09-18": 1091,
@@ -49,11 +49,11 @@
     "uptimeWeek": "64.09%",
     "uptimeMonth": "91.57%",
     "uptimeYear": "96.87%",
-    "time": 1264,
-    "timeDay": 4886,
-    "timeWeek": 1944,
-    "timeMonth": 1093,
-    "timeYear": 1179,
+    "time": 1263,
+    "timeDay": 4904,
+    "timeWeek": 2026,
+    "timeMonth": 1102,
+    "timeYear": 1180,
     "dailyMinutesDown": {
       "2022-09-21": 71,
       "2022-09-18": 1091,
@@ -102,8 +102,7 @@
       "2021-11-19": 19,
       "2021-10-16": 66,
       "2021-10-11": 142,
-      "2021-09-26": 55,
-      "2021-09-22": 27
+      "2021-09-26": 55
     }
   },
   {
@@ -112,18 +111,19 @@
     "icon": "https://favicons.githubusercontent.com/online.huskysatellitelab.com",
     "slug": "part-db",
     "status": "down",
-    "uptime": "36.93%",
+    "uptime": "36.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "31.93%",
-    "time": 342,
-    "timeDay": 80,
-    "timeWeek": 50,
+    "uptimeYear": "31.73%",
+    "time": 341,
+    "timeDay": 68,
+    "timeWeek": 59,
     "timeMonth": 54,
-    "timeYear": 285,
+    "timeYear": 279,
     "dailyMinutesDown": {
-      "2022-09-21": 522,
+      "2022-09-22": 119,
+      "2022-09-21": 1440,
       "2022-09-20": 1440,
       "2022-09-19": 1440,
       "2022-09-18": 1440,
@@ -379,8 +379,7 @@
       "2021-11-19": 19,
       "2021-10-16": 65,
       "2021-10-11": 142,
-      "2021-09-26": 54,
-      "2021-09-22": 25
+      "2021-09-26": 54
     }
   },
   {
@@ -395,8 +394,8 @@
     "uptimeMonth": "91.74%",
     "uptimeYear": "98.37%",
     "time": 158,
-    "timeDay": 105,
-    "timeWeek": 1446,
+    "timeDay": 95,
+    "timeWeek": 1449,
     "timeMonth": 345,
     "timeYear": 156,
     "dailyMinutesDown": {
@@ -426,8 +425,7 @@
       "2021-11-19": 19,
       "2021-10-16": 63,
       "2021-10-11": 142,
-      "2021-09-26": 52,
-      "2021-09-22": 24
+      "2021-09-26": 52
     }
   }
 ]
