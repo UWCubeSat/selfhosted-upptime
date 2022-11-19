@@ -6,14 +6,14 @@
     "slug": "proxy",
     "status": "up",
     "uptime": "99.04%",
-    "uptimeDay": "95.39%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.16%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "98.85%",
-    "time": 327,
-    "timeDay": 294,
-    "timeWeek": 290,
-    "timeMonth": 303,
+    "time": 328,
+    "timeDay": 379,
+    "timeWeek": 310,
+    "timeMonth": 301,
     "timeYear": 323,
     "dailyMinutesDown": {
       "2022-11-17": 66,
@@ -36,8 +36,7 @@
       "2021-12-11": 578,
       "2021-12-06": 23,
       "2021-11-29": 17,
-      "2021-11-28": 16,
-      "2021-11-19": 19
+      "2021-11-28": 16
     }
   },
   {
@@ -47,15 +46,15 @@
     "slug": "wiki",
     "status": "up",
     "uptime": "96.87%",
-    "uptimeDay": "37.80%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "78.18%",
     "uptimeMonth": "94.67%",
     "uptimeYear": "96.28%",
-    "time": 1597,
-    "timeDay": 997,
-    "timeWeek": 8503,
-    "timeMonth": 4213,
-    "timeYear": 1686,
+    "time": 1596,
+    "timeDay": 1097,
+    "timeWeek": 8535,
+    "timeMonth": 4218,
+    "timeYear": 1687,
     "dailyMinutesDown": {
       "2022-11-17": 996,
       "2022-11-16": 907,
@@ -112,8 +111,7 @@
       "2021-12-06": 22,
       "2021-12-01": 878,
       "2021-11-30": 41,
-      "2021-11-29": 16,
-      "2021-11-19": 19
+      "2021-11-29": 16
     }
   },
   {
@@ -122,18 +120,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/online.huskysatellitelab.com.ico",
     "slug": "part-db",
     "status": "down",
-    "uptime": "32.21%",
+    "uptime": "32.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "16.18%",
+    "uptimeYear": "15.90%",
     "time": 306,
-    "timeDay": 53,
-    "timeWeek": 51,
+    "timeDay": 72,
+    "timeWeek": 58,
     "timeMonth": 53,
-    "timeYear": 174,
+    "timeYear": 172,
     "dailyMinutesDown": {
-      "2022-11-18": 100,
+      "2022-11-19": 96,
+      "2022-11-18": 1440,
       "2022-11-17": 1440,
       "2022-11-16": 1440,
       "2022-11-15": 1440,
@@ -443,8 +442,7 @@
       "2021-12-06": 22,
       "2021-12-01": 878,
       "2021-11-30": 39,
-      "2021-11-29": 16,
-      "2021-11-19": 19
+      "2021-11-29": 16
     }
   },
   {
@@ -454,14 +452,14 @@
     "slug": "keycloak",
     "status": "up",
     "uptime": "98.53%",
-    "uptimeDay": "95.39%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.16%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "98.40%",
     "time": 150,
-    "timeDay": 171,
-    "timeWeek": 131,
-    "timeMonth": 104,
+    "timeDay": 98,
+    "timeWeek": 135,
+    "timeMonth": 103,
     "timeYear": 154,
     "dailyMinutesDown": {
       "2022-11-17": 66,
@@ -489,8 +487,7 @@
       "2022-01-18": 638,
       "2021-12-11": 578,
       "2021-12-01": 879,
-      "2021-11-30": 37,
-      "2021-11-19": 19
+      "2021-11-30": 37
     }
   }
 ]
