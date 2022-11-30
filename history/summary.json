@@ -9,10 +9,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "98.85%",
-    "time": 327,
-    "timeDay": 348,
-    "timeWeek": 296,
+    "uptimeYear": "98.86%",
+    "time": 328,
+    "timeDay": 379,
+    "timeWeek": 318,
     "timeMonth": 298,
     "timeYear": 322,
     "dailyMinutesDown": {
@@ -45,14 +45,14 @@
     "status": "up",
     "uptime": "96.94%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.63%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "94.89%",
     "uptimeYear": "96.28%",
-    "time": 1582,
-    "timeDay": 840,
-    "timeWeek": 941,
-    "timeMonth": 3517,
-    "timeYear": 1697,
+    "time": 1573,
+    "timeDay": 1011,
+    "timeWeek": 911,
+    "timeMonth": 3516,
+    "timeYear": 1700,
     "dailyMinutesDown": {
       "2022-11-22": 37,
       "2022-11-17": 996,
@@ -108,8 +108,7 @@
       "2022-01-18": 638,
       "2021-12-11": 578,
       "2021-12-06": 22,
-      "2021-12-01": 878,
-      "2021-11-30": 41
+      "2021-12-01": 878
     }
   },
   {
@@ -118,18 +117,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/online.huskysatellitelab.com.ico",
     "slug": "part-db",
     "status": "down",
-    "uptime": "31.45%",
+    "uptime": "31.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "13.17%",
-    "time": 301,
+    "uptimeYear": "12.90%",
+    "time": 300,
     "timeDay": 68,
-    "timeWeek": 53,
+    "timeWeek": 59,
     "timeMonth": 55,
-    "timeYear": 155,
+    "timeYear": 151,
     "dailyMinutesDown": {
-      "2022-11-29": 80,
+      "2022-11-30": 80,
+      "2022-11-29": 1440,
       "2022-11-28": 1440,
       "2022-11-27": 1440,
       "2022-11-26": 1440,
@@ -448,8 +448,7 @@
       "2022-01-17": 1164,
       "2021-12-11": 578,
       "2021-12-06": 22,
-      "2021-12-01": 878,
-      "2021-11-30": 39
+      "2021-12-01": 878
     }
   },
   {
@@ -464,8 +463,8 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "98.41%",
     "time": 148,
-    "timeDay": 96,
-    "timeWeek": 79,
+    "timeDay": 91,
+    "timeWeek": 85,
     "timeMonth": 96,
     "timeYear": 153,
     "dailyMinutesDown": {
@@ -493,8 +492,7 @@
       "2022-01-31": 20,
       "2022-01-18": 638,
       "2021-12-11": 578,
-      "2021-12-01": 879,
-      "2021-11-30": 37
+      "2021-12-01": 879
     }
   }
 ]
