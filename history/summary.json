@@ -11,9 +11,9 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "98.86%",
     "time": 324,
-    "timeDay": 391,
-    "timeWeek": 355,
-    "timeMonth": 311,
+    "timeDay": 389,
+    "timeWeek": 361,
+    "timeMonth": 313,
     "timeYear": 315,
     "dailyMinutesDown": {
       "2022-11-17": 66,
@@ -33,8 +33,7 @@
       "2022-02-09": 18,
       "2022-01-31": 21,
       "2022-01-18": 638,
-      "2021-12-11": 578,
-      "2021-12-06": 23
+      "2021-12-11": 578
     }
   },
   {
@@ -43,16 +42,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/online.huskysatellitelab.com.ico",
     "slug": "wiki",
     "status": "up",
-    "uptime": "96.93%",
+    "uptime": "96.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.12%",
     "uptimeMonth": "94.23%",
     "uptimeYear": "96.40%",
-    "time": 1598,
-    "timeDay": 1064,
-    "timeWeek": 2392,
-    "timeMonth": 3764,
-    "timeYear": 1724,
+    "time": 1597,
+    "timeDay": 858,
+    "timeWeek": 2393,
+    "timeMonth": 3760,
+    "timeYear": 1725,
     "dailyMinutesDown": {
       "2022-12-03": 160,
       "2022-12-01": 130,
@@ -108,8 +107,7 @@
       "2022-02-01": 24,
       "2022-01-31": 21,
       "2022-01-18": 638,
-      "2021-12-11": 578,
-      "2021-12-06": 22
+      "2021-12-11": 578
     }
   },
   {
@@ -118,18 +116,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/online.huskysatellitelab.com.ico",
     "slug": "part-db",
     "status": "down",
-    "uptime": "31.05%",
+    "uptime": "30.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "11.71%",
-    "time": 289,
-    "timeDay": 67,
+    "uptimeYear": "11.43%",
+    "time": 287,
+    "timeDay": 70,
     "timeWeek": 63,
     "timeMonth": 57,
-    "timeYear": 125,
+    "timeYear": 124,
     "dailyMinutesDown": {
-      "2022-12-05": 74,
+      "2022-12-06": 74,
+      "2022-12-05": 1440,
       "2022-12-04": 1440,
       "2022-12-03": 1440,
       "2022-12-02": 1440,
@@ -452,8 +451,7 @@
       "2022-01-19": 1440,
       "2022-01-18": 1440,
       "2022-01-17": 1164,
-      "2021-12-11": 578,
-      "2021-12-06": 22
+      "2021-12-11": 578
     }
   },
   {
@@ -462,13 +460,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/online.huskysatellitelab.com.ico",
     "slug": "keycloak",
     "status": "up",
-    "uptime": "98.58%",
+    "uptime": "98.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "98.58%",
     "time": 148,
-    "timeDay": 96,
+    "timeDay": 98,
     "timeWeek": 88,
     "timeMonth": 98,
     "timeYear": 147,
