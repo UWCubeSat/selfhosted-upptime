@@ -5,10 +5,10 @@ repo: selfhosted-upptime # The name of this repository
 sites:
   - name: Proxy
     url: https://online.huskysatellitelab.com
-  - name: Wiki
-    url: https://online.huskysatellitelab.com/wiki
-  - name: PartDB
-    url: https://online.huskysatellitelab.com/partdb
+#  - name: Wiki
+#    url: https://online.huskysatellitelab.com/wiki
+#  - name: PartDB
+#    url: https://xyz.huskysat.org/partdb
   - name: Keycloak
     url: https://online.huskysatellitelab.com/keycloak/
 
