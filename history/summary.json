@@ -38,12 +38,12 @@
     "url": "https://online.huskysatellitelab.com/wiki",
     "icon": "https://icons.duckduckgo.com/ip3/online.huskysatellitelab.com.ico",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "96.08%",
-    "uptimeDay": "69.41%",
+    "uptimeDay": "69.40%",
     "uptimeWeek": "87.24%",
     "uptimeMonth": "92.05%",
-    "uptimeYear": "94.17%",
+    "uptimeYear": "94.18%",
     "time": 2900,
     "timeDay": 19643,
     "timeWeek": 14073,
@@ -128,8 +128,7 @@
       "2022-04-27": 21,
       "2022-04-11": 40,
       "2022-03-19": 89,
-      "2022-03-14": 27,
-      "2022-02-24": 23
+      "2022-03-14": 27
     }
   },
   {
@@ -149,7 +148,7 @@
     "timeMonth": 52,
     "timeYear": 55,
     "dailyMinutesDown": {
-      "2023-02-16": 765,
+      "2023-02-16": 794,
       "2023-02-15": 1440,
       "2023-02-14": 1440,
       "2023-02-13": 1440,
@@ -525,7 +524,7 @@
     "uptime": "92.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.83%",
+    "uptimeMonth": "94.89%",
     "uptimeYear": "90.00%",
     "time": 148,
     "timeDay": 135,
