@@ -11,9 +11,9 @@
     "uptimeMonth": "99.15%",
     "uptimeYear": "98.81%",
     "time": 313,
-    "timeDay": 170,
-    "timeWeek": 268,
-    "timeMonth": 293,
+    "timeDay": 184,
+    "timeWeek": 251,
+    "timeMonth": 286,
     "timeYear": 305,
     "dailyMinutesDown": {
       "2023-03-15": 374,
@@ -30,8 +30,7 @@
       "2022-06-10": 298,
       "2022-05-19": 345,
       "2022-05-18": 142,
-      "2022-04-11": 40,
-      "2022-03-19": 89
+      "2022-04-11": 40
     }
   },
   {
@@ -40,16 +39,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/online.huskysatellitelab.com.ico",
     "slug": "keycloak",
     "status": "up",
-    "uptime": "92.91%",
+    "uptime": "92.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.29%",
     "uptimeMonth": "99.02%",
     "uptimeYear": "89.93%",
     "time": 148,
-    "timeDay": 51,
-    "timeWeek": 95,
-    "timeMonth": 148,
-    "timeYear": 138,
+    "timeDay": 378,
+    "timeWeek": 131,
+    "timeMonth": 150,
+    "timeYear": 139,
     "dailyMinutesDown": {
       "2023-03-15": 374,
       "2023-03-09": 38,
@@ -103,8 +102,7 @@
       "2022-05-24": 408,
       "2022-05-19": 345,
       "2022-05-18": 142,
-      "2022-04-11": 40,
-      "2022-03-19": 89
+      "2022-04-11": 40
     }
   }
 ]
