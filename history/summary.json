@@ -11,9 +11,9 @@
     "uptimeMonth": "77.72%",
     "uptimeYear": "89.27%",
     "time": 328,
-    "timeDay": 404,
-    "timeWeek": 328,
-    "timeMonth": 309,
+    "timeDay": 326,
+    "timeWeek": 326,
+    "timeMonth": 311,
     "timeYear": 332,
     "dailyMinutesDown": {
       "2023-12-10": 1437,
@@ -74,15 +74,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/online.huskysatellitelab.com.ico",
     "slug": "keycloak",
     "status": "up",
-    "uptime": "90.64%",
+    "uptime": "90.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "77.72%",
-    "uptimeYear": "82.70%",
+    "uptimeYear": "82.97%",
     "time": 135,
-    "timeDay": 230,
+    "timeDay": 100,
     "timeWeek": 234,
-    "timeMonth": 215,
+    "timeMonth": 217,
     "timeYear": 127,
     "dailyMinutesDown": {
       "2023-12-10": 1437,
@@ -163,8 +163,7 @@
       "2022-12-30": 1440,
       "2022-12-29": 1440,
       "2022-12-28": 1440,
-      "2022-12-27": 1440,
-      "2022-12-26": 1440
+      "2022-12-27": 1440
     }
   }
 ]
