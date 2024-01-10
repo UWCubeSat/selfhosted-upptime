@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/online.huskysatellitelab.com.ico",
     "slug": "proxy",
     "status": "up",
-    "uptime": "94.99%",
+    "uptime": "95.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.58%",
+    "uptimeMonth": "96.87%",
     "uptimeYear": "89.27%",
     "time": 327,
-    "timeDay": 336,
-    "timeWeek": 301,
-    "timeMonth": 295,
+    "timeDay": 374,
+    "timeWeek": 315,
+    "timeMonth": 298,
     "timeYear": 333,
     "dailyMinutesDown": {
       "2023-12-10": 1437,
@@ -74,15 +74,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/online.huskysatellitelab.com.ico",
     "slug": "keycloak",
     "status": "up",
-    "uptime": "90.80%",
+    "uptime": "90.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "93.58%",
-    "uptimeYear": "86.81%",
+    "uptimeMonth": "96.87%",
+    "uptimeYear": "87.08%",
     "time": 136,
-    "timeDay": 98,
-    "timeWeek": 175,
-    "timeMonth": 208,
+    "timeDay": 94,
+    "timeWeek": 153,
+    "timeMonth": 204,
     "timeYear": 130,
     "dailyMinutesDown": {
       "2023-12-10": 1437,
@@ -148,8 +148,7 @@
       "2023-01-14": 1440,
       "2023-01-13": 1440,
       "2023-01-12": 1440,
-      "2023-01-11": 1440,
-      "2023-01-10": 1440
+      "2023-01-11": 1440
     }
   }
 ]
