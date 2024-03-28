@@ -1,7 +1,7 @@
 url: https://online.huskysatellitelab.com/keycloak/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-28T01:38:46.637Z
+status: up
+code: 200
+responseTime: 252
+lastUpdated: 2024-03-28T02:14:50.466Z
 startTime: 2021-09-17T16:32:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
