@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "94.57%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "88.56%",
+    "uptimeWeek": "97.87%",
     "uptimeMonth": "95.53%",
-    "uptimeYear": "85.96%",
-    "time": 354,
-    "timeDay": 614,
-    "timeWeek": 595,
-    "timeMonth": 600,
-    "timeYear": 370,
+    "uptimeYear": "86.14%",
+    "time": 355,
+    "timeDay": 574,
+    "timeWeek": 593,
+    "timeMonth": 601,
+    "timeYear": 371,
     "dailyMinutesDown": {
       "2024-09-09": 294,
       "2024-09-08": 1440,
@@ -78,8 +78,7 @@
       "2023-09-21": 1440,
       "2023-09-20": 1440,
       "2023-09-19": 1440,
-      "2023-09-18": 1440,
-      "2023-09-17": 1440
+      "2023-09-18": 1440
     }
   },
   {
@@ -89,17 +88,16 @@
     "slug": "keycloak",
     "status": "up",
     "uptime": "88.34%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "88.45%",
-    "uptimeMonth": "95.51%",
-    "uptimeYear": "76.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.87%",
+    "uptimeMonth": "95.53%",
+    "uptimeYear": "77.17%",
     "time": 197,
-    "timeDay": 242,
-    "timeWeek": 244,
-    "timeMonth": 293,
+    "timeDay": 240,
+    "timeWeek": 247,
+    "timeMonth": 292,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2024-09-15": 11,
       "2024-09-09": 294,
       "2024-09-08": 1440,
       "2024-09-07": 204,
@@ -199,8 +197,7 @@
       "2023-09-21": 1440,
       "2023-09-20": 1440,
       "2023-09-19": 1440,
-      "2023-09-18": 1440,
-      "2023-09-17": 1440
+      "2023-09-18": 1440
     }
   }
 ]
